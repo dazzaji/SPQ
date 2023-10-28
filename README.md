@@ -6,3 +6,4 @@
 
 * [Generative AI for Lawyers](https://github.com/dazzaji/SPQ/tree/main/Understanding_GenAI_for_Lawyers#readme) (draft in progress)
 * Generative AI for Small Business (coming soon)
+* Generative AI for Computational Law (coming soon)
