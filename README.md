@@ -1,4 +1,4 @@
-# SPQ
+# [SPQ](https://dazzaji.github.io/SPQ)
 
 SPQ.ai (domain link coming soon)
 
