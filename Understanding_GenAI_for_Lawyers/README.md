@@ -1,4 +1,4 @@
-# Understanding Generative AI: what every lawyer needs to know!
+# Understanding Generative AI - what every lawyer needs to know!
 
 > Author: Daniel “Dazza” Greenwood
 > *This is a work in progress.  Your corrections, comments, ideas, and other feedback may be shared through the repo issues for now, and via a submissions form soon.*
