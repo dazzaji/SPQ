@@ -1,0 +1,2 @@
+# SPQ
+SPQ.ai
