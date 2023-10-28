@@ -1,5 +1,5 @@
 # SPQ
 
-SPQ.ai
+SPQ.ai (domain link coming soon)
 
-What is Generative AI and Why Does it Matter?
+## What is Generative AI and Why Does it Matter?
